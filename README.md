@@ -13,7 +13,6 @@
         <div class="container">
             <h1>Welcome to ELANT-R</h1>
             <p>Your Partner in IoT and Electronics Solutions</p>
-            <p>CEO-Rajesh Kumar.P M.Sc</p>
             <nav>
                 <ul>
                     <li><a href="#home">Home</a></li>
