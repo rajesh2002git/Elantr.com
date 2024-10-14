@@ -5,19 +5,20 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ELANT-R - IoT and Electronics Solutions</title>
+    <title>ELANT-R - Innovative IoT and Electronics Solutions</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
         <div class="container">
-            <h1>Welcome to ELANT-R</h1>
-            <p>Your Partner in IoT and Electronics Solutions</p>
-             <p>CEO-RAJESH KUMAR.P M.Sc</p>
+            <h1>ELANT-R</h1>
+            <p>Innovative IoT and Electronics Solutions</p>
             <nav>
                 <ul>
                     <li><a href="#home">Home</a></li>
+                    <li><a href="#about">About Us</a></li>
                     <li><a href="#services">Services</a></li>
+                    <li><a href="#products">Products</a></li>
                     <li><a href="#contact">Contact</a></li>
                 </ul>
             </nav>
@@ -26,8 +27,16 @@
 
     <section id="home" class="intro-section">
         <div class="container">
+            <h2>Welcome to ELANT-R</h2>
+             <h3>CEO-RAJESH KUMAT.P M.Sc</h3>
+            <p>At ELANT-R, we transform ideas into reality with our cutting-edge IoT and electronic solutions. Our mission is to bring intelligent, connected devices to life for businesses and individuals alike.</p>
+        </div>
+    </section>
+
+    <section id="about" class="about-section">
+        <div class="container">
             <h2>About Us</h2>
-            <p>ELANT-R is a leading provider of innovative IoT and electronic solutions, dedicated to delivering cutting-edge technology and products to our clients. Our expertise in the field drives smart solutions for businesses worldwide.</p>
+            <p>ELANT-R is a pioneering technology company specializing in Internet of Things (IoT) and electronics. With a passion for innovation, we develop smart solutions that integrate seamlessly with everyday life, driving efficiency and connectivity. We aim to revolutionize industries by bringing advanced technology to the forefront.</p>
         </div>
     </section>
 
@@ -35,10 +44,25 @@
         <div class="container">
             <h2>Our Services</h2>
             <ul>
-                <li>IoT System Design and Development</li>
-                <li>Embedded System Solutions</li>
-                <li>Prototyping and Hardware Design</li>
-                <li>Smart Device Integration</li>
+                <li>Custom IoT System Design</li>
+                <li>Embedded Electronics Development</li>
+                <li>Prototyping and Product Development</li>
+                <li>Automation and Smart Device Integration</li>
+                <li>Wireless Communication Solutions</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="products" class="products-section">
+        <div class="container">
+            <h2>Our Products</h2>
+            <p>Explore our range of innovative products that make your life smarter and more connected:</p>
+            <ul>
+                <li>Smart Home Automation Systems</li>
+                <li>Industrial IoT Solutions</li>
+                <li>Wearable Health Devices</li>
+                <li>Sensor Modules and Kits</li>
+                <li>Robotics Components</li>
             </ul>
         </div>
     </section>
@@ -63,8 +87,11 @@
 
     <footer>
         <div class="container">
-            <p>&copy; 2024 ELANT-R. All Rights Reserved.</p>
+            <p>&copy; 2024 ELANT-R. All Rights Reserved. | Follow us on:
+                <a href="https://www.facebook.com/profile.php?id=100006920312832&mibextid=ZbWKwL">Facebook</a> | <a href="https://www.linkedin.com/in/rajesh-kumar-756abb292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a> | <a href=" https://x.com/RajeshKuma13964?t=jW9TgRPkIg2RUE4ear69MA&s=08">Twitter</a>
+            </p>
         </div>
     </footer>
 </body>
 </html>
+
