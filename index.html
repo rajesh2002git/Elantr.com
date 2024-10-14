@@ -27,6 +27,7 @@
     <section id="home" class="intro-section">
         <div class="container">
             <h2>Welcome to ELANT-R</h2>
+            <h3>CEO-RAJESH KUMAR.P ,M.Sc</h3>
             <p>At ELANT-R, we transform ideas into reality with our cutting-edge IoT and electronic solutions. Our mission is to bring intelligent, connected devices to life for businesses and individuals alike.</p>
         </div>
     </section>
