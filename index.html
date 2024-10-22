@@ -88,7 +88,7 @@
     <footer>
         <div class="container">
             <p>&copy; 2024 ELANT-R. All Rights Reserved. | Follow us on:
-                <a href="#">Facebook</a> | <a href="#">LinkedIn</a> | <a href="#">Twitter</a>
+                <a href="https://www.facebook.com/profile.php?id=100006920312832&mibextid=ZbWKwL">Facebook</a> | <a href="https://www.linkedin.com/in/rajesh-kumar-756abb292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a> | <a href="https://www.instagram.com/_.rajeshkumar._3/profilecard/?igsh=N2d4YmJ0YThqeWk0">Instagram</a>
             </p>
         </div>
     </footer>
